@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD6220
+D H-Bridge Driver
+$ENDCMP
+#
+$CMP CC2500
+D 2.4GHz RF Transceiver
+$ENDCMP
+#
+#End Doc Library
